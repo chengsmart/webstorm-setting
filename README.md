@@ -1,0 +1,2 @@
+# gitHooksTest
+pre commit
